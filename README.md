@@ -1,2 +1,2 @@
-# VideoSearching-test-task
-React Native
+# VideoSearching-Test-task
+React native
